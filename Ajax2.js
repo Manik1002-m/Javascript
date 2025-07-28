@@ -1,0 +1,1 @@
+export const imp = "Hello from Ajax";
