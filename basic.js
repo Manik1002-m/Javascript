@@ -67,9 +67,8 @@ console.log('Normal Message')
 // console.log(arr)
 
 // case 1
-// arr.splice(1, 1)
+// arr.splice(0, 2)
 // console.log(arr)
-
 
 // case 2 -
 // arr.splice(1, 2)
