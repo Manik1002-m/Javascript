@@ -280,3 +280,16 @@ console.log('Normal Message')
 
 
 
+
+
+// JS Numbers
+// let a = 25;
+// let b = 3.14159;
+
+// console.log(a + b);               
+// console.log(b.toFixed(2));        
+// console.log(Number(a,b));       
+// console.log(parseFloat("45.67")); 
+// console.log(Number.isNaN("abc")); 
+// console.log(10 / 0);              
+// console.log(0 / 0);
